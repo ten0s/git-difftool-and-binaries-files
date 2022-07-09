@@ -1,3 +1,5 @@
+Moved to https://github.com/ten0s/blog-code/git-difftool-and-binaries-files
+
 ```
 $ git clone https://github.com/ten0s/git-difftool-and-binaries-files
 $ cd git-difftool-for-binaries
